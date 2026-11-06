@@ -6,8 +6,8 @@
 # Written by tools/homebrew_cask.py from packaging/homebrew/cortexdj.rb.in at
 # every macOS release. Change the template, not the cask.
 cask "cortexdj" do
-  version "2.38.1"
-  sha256 "13691ed1c405d7dadbcac34417999668cb3957e04dcd2a3c90f083c63544c462"
+  version "2.38.2"
+  sha256 "c9961b6444d18276cd4e35cfb75b351b38997b36a42ae9abacfc1b5f5ae3cf66"
 
   # The VERSIONED, immutable object. Never the CortexDJ-macOS-arm64.zip alias:
   # it changes under the same name every release and would fail the checksum.
