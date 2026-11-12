@@ -1,6 +1,6 @@
 # CortexDJ for Homebrew
 
-The Homebrew cask for [CortexDJ](https://cortexdj.com/), the offline AI DJ that builds and mixes sets from your own music. The Mac version runs on Apple silicon with macOS 13 Ventura or later, and it is in beta.
+The Homebrew cask for [CortexDJ](https://cortexdj.com/), the offline AI DJ that builds and mixes sets from your own music. The Mac version runs on Apple silicon with macOS 13 Ventura or later.
 
 ## Install
 
